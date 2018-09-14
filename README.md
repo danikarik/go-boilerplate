@@ -32,6 +32,6 @@ make watch
 make dev
 ```
 
-### Author
+## Author
 
 [@danikarik](https://github.com/danikarik)
